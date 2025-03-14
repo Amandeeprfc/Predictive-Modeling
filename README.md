@@ -1,7 +1,7 @@
 # Predictive-Modeling
  Linear Regression using Sklearn, Logistic Regression model, Linear Discriminant Analysis model, Build a CART model, Best Hyperparameters using GridSearch.
 
-========================================================================================================
+============================================================================================
 Problem 1 
 
  1 - Define the problem and perform exploratory Data Analysis 
