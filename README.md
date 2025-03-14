@@ -27,7 +27,7 @@ Problem 1
     •	Using Stats models Perform checks for significant variables using the appropriate method 
     •	Create multiple models and check the performance of Predictions on Train and Test sets using R-square, RMSE & Adjust R-square.
 
-===================================================================================================================================
+============================================================================================
 Problem 2 
 
 1 - Define the problem and perform exploratory Data Analysis 
